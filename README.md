@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olar 👋💻 
 
-<!--
-**k8adev/k8adev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/twitch/status/frontintech)
 
-Here are some ideas to get you started:
+Sou programadora metida a engraçadinha. Faço uns códigos ao vivo na Twitch, siga a [@frontintech](https://twitch.tv/frontintech) na Twitch para acompanhar!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+Me conheça mais através das minhas redes sociais 👇🏻
+
+[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keitoliveira)
+[![](https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/k8adev)
+
+<br />
+
+![](https://github-readme-stats.vercel.app/api?username=k8adev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=k8adev&layout=compact&langs_count=7&theme=dracula)
