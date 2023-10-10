@@ -6,13 +6,13 @@
 
 ### Olar 👋 🇧🇷
 
-Muito prazer, eu sou a Keit ou **@k8adev** como sou conhecida nas redes sociais. Sou programadora a 15 anos, podcaster, coder streamer, organizadora de eventos de tecnologia e mais um monte de outras coisas!
+Muito prazer, eu sou a Keit ou **@k8adev** como sou conhecida nas redes sociais. Sou programadora a 15 anos, podcaster, livecoder, organizadora de eventos de tecnologia e mais um monte de outras coisas!
 
 Sou fundadora da **Frontin**, responsável pelo maior evento de front-end da América Latina, o [#frontinsampa](https://evento.frontinsampa.com.br) e sou apaixonada por proporcionar espaços onde pessoas de tecnologia possam aprender, compartilhar, se divertir e terem suas vidas transformadas.
 
 Você pode me encontrar em 👇
 
-- 📺 Toda (ou quase toda) quinta e sexta às 20h na [Twitch](https://twitch.tv/frontintech)
+- 📺 Toda (ou quase toda) Quinta e Sexta às 20h na [Twitch](https://twitch.tv/frontintech)
 - 🎫 Nos eventos da [Frontin](https://frontinsampa.com.br)
 - 🎙 Em episódios do [Devnaestrada](https://devnaestrada.com.br)
 - 💜 Papeando até 4 da manhã no Discord da [He4rt Developers](https://discord.gg/he4rt)
@@ -21,7 +21,7 @@ Você pode me encontrar em 👇
 
 ### Hello! 👋 🇺🇸
 
-I’m Keit, or **@k8adev**, as I’m known on social media. I’ve been a programmer for 15 years, and I’m also a podcaster, programming streamer, technology event organizer, and involved in many other things!
+I’m Keit, or **@k8adev**, as I’m known on social media. I’ve been a programmer for 15 years, and I’m also a podcaster, livecoder, technology event organizer, and involved in many other things!
 
 I’m the founder of [Frontin](https://frontinsampa.com.br), the company behind the largest front-end event in Latin America, [#frontinsampa](https://evento.frontinsampa.com.br). I’m passionate about providing spaces where people in technology can learn, share, have fun, and transform their lives.
 
