@@ -21,9 +21,9 @@ Você pode me encontrar em 👇
 
 ### Hello! 👋 🇺🇸
 
-I'm Keit or **@k8adev** as I'm known on social media. I've been programmer for 15 years, podcaster, coder streamer, technology event organizer and a lot of other things!
+I’m Keit, or **@k8adev**, as I’m known on social media. I’ve been a programmer for 15 years, and I’m also a podcaster, programming streamer, technology event organizer, and involved in many other things!
 
-I'm the founder of [Frontin](https://frontinsampa.com.br), responsible for the biggest front-end event in Latin America [#frontinsampa](https://evento.frontinsampa.com.br), and I'm passionate about providing spaces where people in technology can learn, share, have fun and transform their lives.
+I’m the founder of [Frontin](https://frontinsampa.com.br), the company behind the largest front-end event in Latin America, [#frontinsampa](https://evento.frontinsampa.com.br). I’m passionate about providing spaces where people in technology can learn, share, have fun, and transform their lives.
 
 You can find me at 👇
 
