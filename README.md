@@ -1,18 +1,33 @@
-### Olar 👋💻 
+[![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/frontintech)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/k8adev)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k8adev)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keitoliveira)
+[![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/k8adev)
 
-![](https://img.shields.io/twitch/status/frontintech)
+### Olar 👋 🇧🇷
 
-Sou programadora metida a engraçadinha. Faço uns códigos ao vivo na Twitch, siga a [@frontintech](https://twitch.tv/frontintech) na Twitch para acompanhar!
+Muito prazer, eu sou a Keit ou **@k8adev** como sou conhecida nas redes sociais. Sou programadora a 15 anos, podcaster, coder streamer, organizadora de eventos de tecnologia e mais um monte de outras coisas!
 
-<br />
+Sou fundadora da **Frontin**, responsável pelo maior evento de front-end da América Latina, o [#frontinsampa](https://evento.frontinsampa.com.br) e sou apaixonada por proporcionar espaços onde pessoas de tecnologia possam aprender, compartilhar, se divertir e terem suas vidas transformadas.
 
-Me conheça mais através das minhas redes sociais 👇🏻
+Você pode me encontrar em 👇
 
-[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keitoliveira)
-[![](https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/k8adev)
+- 📺 Toda (ou quase toda) quinta e sexta às 20h na [Twitch](https://twitch.tv/frontintech)
+- 🎫 Nos eventos da [Frontin](https://frontinsampa.com.br)
+- 🎙 Em episódios do [Devnaestrada](https://devnaestrada.com.br)
+- 💜 Papeando até 4 da manhã no Discord da [He4rt Developers](https://discord.gg/he4rt)
 
-<br />
+---
 
-![](https://github-readme-stats.vercel.app/api?username=k8adev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+### Hello! 👋 🇺🇸
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=k8adev&layout=compact&langs_count=7&theme=dracula)
+I'm Keit or **@k8adev** as I'm known on social media. I've been programmer for 15 years, podcaster, coder streamer, technology event organizer and a lot of other things!
+
+I'm the founder of [Frontin](https://frontinsampa.com.br), responsible for the biggest front-end event in Latin America [#frontinsampa](https://evento.frontinsampa.com.br), and I'm passionate about providing spaces where people in technology can learn, share, have fun and transform their lives.
+
+You can find me at 👇
+
+- 📺 Every (or almost every) Thursday and Friday at 8 PM on [Twitch](https://twitch.tv/frontintech)
+- 🎫 At [Frontin](https://frontinsampa.com.br) events
+- 🎙 In episodes of [Devnaestrada](https://devnaestrada.com.br)
+- 💜 Chatting until 4 in the morning on the [He4rt Developers](https://discord.gg/he4rt) Discord
