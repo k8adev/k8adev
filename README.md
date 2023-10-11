@@ -6,7 +6,7 @@
 
 ### Olar 👋 🇧🇷
 
-Muito prazer, eu sou a Keit ou **@k8adev** como sou conhecida nas redes sociais. Sou programadora a 15 anos, podcaster, livecoder, organizadora de eventos de tecnologia e mais um monte de outras coisas!
+Muito prazer, eu sou a Keit ou **@k8adev** como sou conhecida nas redes sociais. Sou programadora há 15 anos, podcaster, livecoder, organizadora de eventos de tecnologia e mais um monte de outras coisas!
 
 Sou fundadora da **Frontin**, responsável pelo maior evento de front-end da América Latina, o [#frontinsampa](https://evento.frontinsampa.com.br) e sou apaixonada por proporcionar espaços onde pessoas de tecnologia possam aprender, compartilhar, se divertir e terem suas vidas transformadas.
 
