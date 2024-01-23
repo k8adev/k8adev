@@ -1,10 +1,13 @@
+_code, caffeine and hard work_ 
+
 [![](https://wakatime.com/badge/user/158e6288-78a1-497a-8a2a-984f5b07d3a7.svg?style=for-the-badge)](https://wakatime.com/@158e6288-78a1-497a-8a2a-984f5b07d3a7)
+<br />
+<br />
 [![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/frontintech)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/k8adev)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k8adev)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keitoliveira)
 [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/k8adev)
-
 
 ### Olar 👋 🇧🇷
 
